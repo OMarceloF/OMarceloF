@@ -5,7 +5,7 @@
 👨🏻‍💻 Frontend Developer <br/>
 💼 Fazendo páginas Web como Freelancer
 
-Sou um Desenvolvedor Web, adoro tecnologia e os avanços que ela nos traz.
+Sou um Desenvolvedor Web, adoro tecnologia e as possibilidades que ela nos traz.
 Tenho experiencia com as seguintes tecnologias: 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OMarceloF)](https://github.com/OMarceloF/github-readme-stats)
