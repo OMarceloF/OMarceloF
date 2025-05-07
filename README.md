@@ -9,4 +9,13 @@
 
 - 📫 Converse comigo **the.marcelof@gmail.com**
 
+- <p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omarcelof&show_icons=true&locale=en&layout=compact" alt="omarcelof" />
+</p>
+
+<p>
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omarcelof&show_icons=true&locale=en" alt="omarcelof" />
+</p>
+
+
 
